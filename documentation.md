@@ -3,7 +3,7 @@
 ## Usage Notice
 
 This repository contains materials (documents, mockups, UX flows, and user stories)
-created by me as part of a pro bono consulting project for a non-profit organization.
+created by me and my collegue Tarek Najm, as part of a pro bono consulting project for a non-profit organization.
 
 All content is published for portfolio and educational purposes only.
 
